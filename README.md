@@ -18,7 +18,7 @@ The Realtime Document Editor is a collaborative web application that allows mult
 
 👥 Multi-user collaboration – multiple users can edit the same document at the same time
 
-⚡ Realtime synchronization using WebSockets
+
 
 💾 Auto-save support – changes are automatically saved
 
@@ -51,7 +51,7 @@ realtime-document-editor/
 
 ⚙️ Installation & Setup
 1. Clone the repository
-
+https://github.com/luckylucky110507/Real-Time-Collaborative-Document-Editor.git
 cd realtime-document-editor
 
 2. Install dependencies
