@@ -8,8 +8,93 @@ DOMAIN: FULL STACK WEB DEVELOPMENT
 
 DURATION: 6 WEEKS
 
-MENTOR: NEELA SANTOSH#
-Getting Started with Create React App
+MENTOR: NEELA SANTOSH
+📝 Realtime Document Editor
+📌 Overview
+
+The Realtime Document Editor is a collaborative web application that allows multiple users to edit documents simultaneously with changes synced in real-time. It is designed to replicate the core features of online editors like Google Docs, with focus on collaboration, simplicity, and responsiveness.
+
+✨ Features
+
+👥 Multi-user collaboration – multiple users can edit the same document at the same time
+
+⚡ Realtime synchronization using WebSockets
+
+💾 Auto-save support – changes are automatically saved
+
+⏱ Version history (optional feature)
+
+🔒 User authentication for secure access
+
+🎨 Rich text formatting (bold, italic, underline, lists, headings, etc.)
+
+📱 Responsive UI for desktop and mobile users
+
+🛠️ Tech Stack
+
+Frontend: React.js / HTML / CSS / JavaScript
+
+Backend: Node.js + Express.js
+
+Database: MongoDB / Firebase (for storing documents)
+
+Communication: WebSocket / Socket.io
+
+Editor Engine: Quill.js / Draft.js / TipTap (or similar library)
+
+📂 Project Structure
+realtime-document-editor/
+│── frontend/          # Client-side code (React / HTML + CSS + JS)  
+│── backend/           # Server-side code (Node.js + Express)  
+│── database/          # Document storage & schema  
+│── README.md          # Documentation  
+
+⚙️ Installation & Setup
+1. Clone the repository
+
+cd realtime-document-editor
+
+2. Install dependencies
+
+
+Frontend:
+cd frontend
+npm install
+
+
+
+Frontend client:
+npm run dev
+
+4. Open in Browser
+http://localhost:3000
+
+📸 Screenshots / Demo
+
+<img width="1919" height="700" alt="Image" src="https://github.com/user-attachments/assets/acfe5398-2012-4db7-92d2-083cc81c0e63" />
+
+
+🎯 Future Enhancements
+
+📎 File export/import (PDF, DOCX)
+
+🌐 Multi-language support
+
+🖋️ Commenting & suggestions feature
+
+🔔 Notifications when someone edits the document
+
+📑 Collaborative whiteboard support
+
+🤝 Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request with improvements.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -79,5 +164,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-OUTPUT
-<img width="1919" height="700" alt="Image" src="https://github.com/user-attachments/assets/acfe5398-2012-4db7-92d2-083cc81c0e63" />
+
+
