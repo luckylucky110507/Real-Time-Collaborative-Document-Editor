@@ -1,0 +1,21 @@
+{
+  "name": "realtime-editor-client",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "quill": "^2.0.0",
+    "yjs": "^13.7.25",
+    "y-websocket": "^1.4.5",
+    "y-quill": "^1.0.3"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}

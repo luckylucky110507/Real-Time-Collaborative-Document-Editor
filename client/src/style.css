@@ -1,0 +1,8 @@
+
+body { margin: 0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+.topbar { background: #fff; padding: 12px 20px; display:flex; justify-content:space-between; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+.editor-wrap { padding: 20px; max-width: 900px; margin: 0 auto; }
+.controls { margin-bottom: 12px; display:flex; gap:10px; align-items:center; }
+.controls input { padding:6px 8px; border:1px solid #ddd; border-radius:4px; }
+.quill-editor { min-height: 420px; background: #fff; }
+.foot { padding: 8px 20px; text-align:center; color:#666; }
