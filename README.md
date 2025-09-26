@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+COMPANY NAME: CODTECH IT SOLUTIONS
+
+NAME: LUCKY KUMARI
+
+INTERN ID:CT06DY1079
+
+DOMAIN: FULL STACK WEB DEVELOPMENT
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH#
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+OUTPUT
+
