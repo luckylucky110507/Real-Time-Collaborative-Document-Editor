@@ -80,4 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 OUTPUT
-
+<img width="1919" height="700" alt="Image" src="https://github.com/user-attachments/assets/acfe5398-2012-4db7-92d2-083cc81c0e63" />
